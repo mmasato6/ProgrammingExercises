@@ -36,6 +36,26 @@ Exercises for practicing programming
   - 休出代休振休管理
   - 年休管理
   - 給与計算
+- 居酒屋注文管理
+  - 客席/店員/レジ/管理
+  - 客席
+    - 開始/終了
+    - メニュー一覧
+    - 注文
+    - 注文履歴確認
+    - 未着確認
+    - 精算
+  - 店員
+    - 注文
+    - 提供確認
+  - レジ
+    - 精算
+  - 管理
+    - 客席管理
+    - メニュー管理
+  - 追加要件
+    - 飲み放題
+    - クーポン
 ## 外部サイト
 - [Paiza レベルアップ問題集](https://paiza.jp/works/mondai )
 - [CodeKata](http://codekata.com/ )
