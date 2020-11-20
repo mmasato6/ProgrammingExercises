@@ -59,3 +59,5 @@ Exercises for practicing programming
 ## 外部サイト
 - [Paiza レベルアップ問題集](https://paiza.jp/works/mondai )
 - [CodeKata](http://codekata.com/ )
+- [@IT PressEnter](https://el.jibun.atmarkit.co.jp/pressenter/)
+  - [検温登録システム(「イノウーの憂鬱」より)](https://el.jibun.atmarkit.co.jp/pressenter/2020/06/_8_3.html)
